@@ -1,0 +1,7 @@
+" .vimrc.before
+call janus#disable_plugin('vim-snippets')
+call janus#disable_plugin('vim-vroom')
+call janus#disable_plugin('syntastic')
+"call janus#disable_plugin('supertab')
+set rnu
+set wrap
